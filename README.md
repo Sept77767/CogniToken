@@ -1,0 +1,2 @@
+# CogniToken
+white paper
